@@ -1,4 +1,4 @@
-# JEST Learning Part 2
+# Jest Learning Part 2: Snapshot-Testing
 
 A small app to learn about snapshot testing straight from the team at Meta using this [documentation](https://jestjs.io/docs/tutorial-react).
 
